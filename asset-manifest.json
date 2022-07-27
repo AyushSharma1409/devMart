@@ -1,21 +1,23 @@
 {
-  "files": {
-    "main.css": "/devvMart/static/css/main.5b1f193a.css",
-    "main.js": "/devvMart/static/js/main.a7afceed.js",
-    "static/media/chngeee.jpg": "/devvMart/static/media/chngeee.75952a23b76ba1618352.jpg",
-    "static/media/appe.jpg": "/devvMart/static/media/appe.3d1733d044cdc9677e9f.jpg",
-    "static/media/digite.jpg": "/devvMart/static/media/digite.be272230718463725889.jpg",
-    "static/media/swd.jpg": "/devvMart/static/media/swd.654fd212a198c80c4433.jpg",
-    "static/media/webd.jpg": "/devvMart/static/media/webd.8f20d90204e3ea52afa1.jpg",
-    "static/media/andr.jpg": "/devvMart/static/media/andr.1bc9b51be1b7ba600674.jpg",
-    "static/media/unnamed.jpg": "/devvMart/static/media/unnamed.45e435659a14ab45053e.jpg",
-    "static/media/mrket.jpg": "/devvMart/static/media/mrket.14eb9d15feca140ad4c4.jpg",
-    "index.html": "/devvMart/index.html",
-    "main.5b1f193a.css.map": "/devvMart/static/css/main.5b1f193a.css.map",
-    "main.a7afceed.js.map": "/devvMart/static/js/main.a7afceed.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.5b1f193a.css",
-    "static/js/main.a7afceed.js"
-  ]
+  "main.css": "/devvMart/static/css/main.772d337e.chunk.css",
+  "main.js": "/devvMart/static/js/main.91309446.chunk.js",
+  "main.js.map": "/devvMart/static/js/main.91309446.chunk.js.map",
+  "static/css/1.60bc9028.chunk.css": "/devvMart/static/css/1.60bc9028.chunk.css",
+  "static/js/1.5be94f57.chunk.js": "/devvMart/static/js/1.5be94f57.chunk.js",
+  "static/js/1.5be94f57.chunk.js.map": "/devvMart/static/js/1.5be94f57.chunk.js.map",
+  "runtime~main.js": "/devvMart/static/js/runtime~main.d96e7b30.js",
+  "runtime~main.js.map": "/devvMart/static/js/runtime~main.d96e7b30.js.map",
+  "static/media/chngeee.jpg": "/devvMart/static/media/chngeee.d9963afd.jpg",
+  "static/media/webd.jpg": "/devvMart/static/media/webd.e6dc64be.jpg",
+  "static/media/appe.jpg": "/devvMart/static/media/appe.c67b4b5c.jpg",
+  "static/media/swd.jpg": "/devvMart/static/media/swd.5aa8f9af.jpg",
+  "static/media/digite.jpg": "/devvMart/static/media/digite.b906b142.jpg",
+  "static/media/andr.jpg": "/devvMart/static/media/andr.9df84ad3.jpg",
+  "static/media/mrket.jpg": "/devvMart/static/media/mrket.f65be0a1.jpg",
+  "static/media/unnamed.jpg": "/devvMart/static/media/unnamed.4c85888f.jpg",
+  "static/css/main.772d337e.chunk.css.map": "/devvMart/static/css/main.772d337e.chunk.css.map",
+  "static/css/1.60bc9028.chunk.css.map": "/devvMart/static/css/1.60bc9028.chunk.css.map",
+  "index.html": "/devvMart/index.html",
+  "precache-manifest.a1e4bc41a5eefde2f8fd633b130d55d1.js": "/devvMart/precache-manifest.a1e4bc41a5eefde2f8fd633b130d55d1.js",
+  "service-worker.js": "/devvMart/service-worker.js"
 }
